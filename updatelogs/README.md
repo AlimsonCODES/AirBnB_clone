@@ -37,6 +37,20 @@ Recommendations: Propose meeting to debug model/file.py
 End of Log.
 """
 
+"""
+Log @ 2022/08/05-16:13CAT
+
+update changes:
+1. debugged models/base_model.py and made multiple changes
+
+2. optimized models/base_model.py for better readability
+
+3. fixed errors in models/base_model.py
+
+End of log
+
+"""
+
 Also please remember to add reccomendations to
 logs in a different field. see above example.
 
